@@ -28,4 +28,4 @@ The analysis identified important trends and provided actionable recommendations
 
 ## Author
 Mende Teja
-https://github.com/yourusername/EDA-Retail-Sales-Analysis
+https://github.com/Mende-teja/EDA-Retail-Sales-Analysis

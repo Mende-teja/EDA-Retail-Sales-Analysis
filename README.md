@@ -27,4 +27,5 @@ Retail Sales Dataset
 The analysis identified important trends and provided actionable recommendations for business decision-making.
 
 ## Author
-Your Name
+Mende Teja
+https://github.com/yourusername/EDA-Retail-Sales-Analysis
